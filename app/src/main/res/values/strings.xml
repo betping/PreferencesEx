@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Preferences Ex</string>
+    <string name="settings">SETTINGS</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="set_your_password">set your Password</string>
+    <string name="password">Password</string>
+    <string name="security_settings">SECURITY SETTINGS</string>
+    <string name="lock_the_screen_with_password">Lock the Screen with Password</string>
+    <string name="remainder_for_updation">Remainder for Updation</string>
+    <string name="screen_lock">Screen Lock</string>
+    <string name="enter_frequency">Enter Frequency</string>
+    <string name="set_update_remainder_frequency">set update remainder frequency</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="save_preferences">SAVE Preferences</string>
+</resources>
